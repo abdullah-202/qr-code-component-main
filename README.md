@@ -16,8 +16,8 @@ Qr component card challenge by Frontend Mentor. Completed the challenge using HT
 
 ### Screenshot
 
-![](./screenshot_mobile.png)
-![](./screenshot_desktop.png)
+![](./images/screenshot_mobile.png)
+![](./images/screenshot_desktop.png)
 
 
 ## My process
